@@ -10,7 +10,7 @@ from apscheduler.schedulers.background import BackgroundScheduler, BlockingSched
 import random
 
 # Input the API code here please
-chatbot_api = ChatbotAPI(api_key="sk-proj-YGtmd6DpieZU9ZT2P4QGT3BlbkFJuxru9AK6C7191BG04jau") 
+chatbot_api = ChatbotAPI(api_key="ENTER_YOUR_API_KEY_HERE") 
 
 message_log = []
 
