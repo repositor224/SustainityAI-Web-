@@ -35,8 +35,6 @@ To start the chatbot, run `main.py` using Python 3:
 
 CMD will then show a local host website (such as: 'Running on local URL:  http://127.0.0.1:7860')
 
-To end the chatbot, close the web interface.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
